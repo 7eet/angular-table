@@ -1,0 +1,25 @@
+.userImg {
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+}
+table {
+  width: 100%;
+  // padding: 20px;
+}
+::ng-deep .mat-form-field-appearance-fill .mat-form-field-flex {
+  background-color: #E5E7EB !important;
+}
+
+tr.mat-row,
+tr.mat-footer-row {
+  height: 70px !important;
+}
+
+form {
+  align-items: center;
+}
+
+#formContainer {
+    border-radius: 20px;;
+}
